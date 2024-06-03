@@ -4,6 +4,10 @@ Fullstack open source movie application made with MongoDB, Express, React & Node
 <br/>
 
 
+
+https://github.com/yash-a06/MovieDataBase/assets/105718562/eb0ac215-5c47-4584-9184-6cb76fad0fb5
+
+
 ```
 
 ##  Key Features
